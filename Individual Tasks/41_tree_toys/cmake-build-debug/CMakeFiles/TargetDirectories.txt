@@ -1,0 +1,3 @@
+C:/Users/qRe/CLionProjects/algorithms_and_data_structures/Individual Tasks/41_tree_toys/cmake-build-debug/CMakeFiles/41_tree_toys.dir
+C:/Users/qRe/CLionProjects/algorithms_and_data_structures/Individual Tasks/41_tree_toys/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/qRe/CLionProjects/algorithms_and_data_structures/Individual Tasks/41_tree_toys/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+C:/Users/qRe/CLionProjects/algorithms_and_data_structures/Individual Tasks/5_domino/cmake-build-debug/CMakeFiles/5_domino.dir
+C:/Users/qRe/CLionProjects/algorithms_and_data_structures/Individual Tasks/5_domino/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/qRe/CLionProjects/algorithms_and_data_structures/Individual Tasks/5_domino/cmake-build-debug/CMakeFiles/rebuild_cache.dir
