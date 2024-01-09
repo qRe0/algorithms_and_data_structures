@@ -10,4 +10,4 @@
 Выходной файл должен содержать последовательность ключей вершин, полученную прямым левым обходом итогового дерева.
 
 ## Пояснение
-![Иллюстрация к условию](https://github.com/qRe0/algorithms_and_data_structures/edit/master/Individual%20Tasks/task_11/ex.jpg)
+![Иллюстрация к условию](https://github.com/qRe0/algorithms_and_data_structures/blob/master/Individual%20Tasks/task_11/ex.png)
