@@ -1,16 +1,16 @@
-# Введение:
-Данный репозиторий содержит решения алгоритмических задач по дисциплине "Алгоритмы и Структуры Данных" (*АиСД*) за третий семестр обучений (2023-2024).
+# Introduction:
+This repository contains solutions to algorithmic problems in the Algorithms and Data Structures discipline for the third semester of instruction (2023-2024).
 
-## Использованный язык программирования:
+## Programming language used:
 ## *C++*
-Выбор языка C++ обусловлен наибольшими познаниями в сравнении с другими предоставленными на тестовой платформе языками (*Java*, *C++*, *C#*, *Pyton*, *Kotlin*)
+The choice of C++ language is due to the greatest knowledge compared to other languages provided on the test platform (*Java*, *C++*, *C#*, *Pyton*, *Kotlin*)
 
-## Студент: 
-Малиновский Егор Александрович, 2 курс, 12 группа
+##Student:
+Malinovsky Egor Alexandrovich Malinovsky, 2nd year, group 12
 
-## Преподаватель-практик:
-Старший преподаватель кафедры ДМА Буславский Александр Андреевич
-Доцент кафедры ДМА, кандидат физико-математических наук Соболевская Елена Павловна
+##Practice Educator:
+Senior Lecturer of the DMA Department Alexander Andreevich Buslavsky
+Associate Professor of the DMA Department, Candidate of Physical and Mathematical Sciences Elena Pavlovna Sobolevskaya
 
-## Лектор:
-Доцент кафедры ДМА, кандидат физико-математических наук Соболевская Елена Павловна
+## Lecturer:
+Associate Professor of the DMA Department, Candidate of Physical and Mathematical Sciences Elena Pavlovna Sobolevskaya
