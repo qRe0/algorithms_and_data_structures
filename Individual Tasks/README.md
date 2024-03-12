@@ -1,15 +1,16 @@
-# Использованные алгоритмы
+#Algorithms used
 
-## 41_tree_toys - ДП
-- Динамическое программирование
+## 41_tree_toys - DP
+- Dynamic Programming
 
-## task_11 - Деревья как структура данных
-- Основные понятия о деревьх
-- Рекурсия
+### task_11 - Trees as a data structure
+- Basic concepts about trees
+- Recursion
 - MSL
 
-## 32_ravenstva - Специальные структуры данных
+## 32_ravenstva - Special Data Structures
 - DSU
 
-## 5_domino - Алгоритмы на графах
-- Поиск **в ширину**
+## 5_domino - Algorithms on graphs
+- Search **in width**
+
