@@ -1,8 +1,8 @@
-## Использованные алгоритмы
+##Algorithms used
 
-- DSU (Система Неперсекающихся Множеств)
-- Кучи
-- Дерево отрезков
-- Корневая декомпозиция
-- Префиксные суммы
-- Хэш-таблица
+- DSU (Disjoint Set Union)
+- Heaps
+- A tree of segments
+- Root decomposition
+- Prefix sums
+- Hash table
