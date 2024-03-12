@@ -1,5 +1,6 @@
-## Использованные алгоритмы
+##Algorithms used
 
-- Динамическое программирование
-- Рекурентные соотношения
-- Рекурсия
+- Dynamic Programming
+- Recurrence relations
+- Recursion
+
