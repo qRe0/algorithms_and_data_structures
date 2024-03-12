@@ -1,4 +1,4 @@
-## Использованные алгоритмы
+##Algorithms used
 
-- Основные понятия о деревьх
-- Рекурсия
+- Basic concepts about trees
+- Recursion
