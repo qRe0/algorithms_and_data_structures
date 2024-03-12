@@ -6,7 +6,7 @@ This repository contains solutions to algorithmic problems in the Algorithms and
 The choice of C++ language is due to the greatest knowledge compared to other languages provided on the test platform (*Java*, *C++*, *C#*, *Pyton*, *Kotlin*)
 
 ##Student:
-Malinovsky Egor Alexandrovich Malinovsky, 2nd year, group 12
+Malinovsky Egor Alexandrovich, 2nd year, group 12
 
 ##Practice Educator:
 Senior Lecturer of the DMA Department Alexander Andreevich Buslavsky
