@@ -1,6 +1,6 @@
-## Использованные алгоритмы
+## Algorithms used
 
-- Основные понятия о графах
-- Алгоритм Дейкстры
-- Поиск **в ширину**
-- Поиск **в глубину**
+- Basic concepts about graphs
+- Dijkstra's Algorithm
+- Search **wide**
+- Search **in depth**
