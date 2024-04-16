@@ -1,4 +1,4 @@
-##Algorithms used
+## Algorithms used
 
 - DSU (Disjoint Set Union)
 - Heaps
